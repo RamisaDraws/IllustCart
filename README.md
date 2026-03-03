@@ -155,42 +155,6 @@ IllustCart/
 
 ---
 
-## 📸 Adding Screenshots
-
-To add your screenshots so they display correctly in this README:
-
-1. **Create a `screenshots/` folder** at the root of your project (same level as the `app/` folder)
-2. **Add your screenshot images** using these exact filenames:
-
-   | Filename | Screen |
-      |---|---|
-   | `cover.png` | Splash / cover screen |
-   | `login.png` | Login screen |
-   | `home.png` | Main home / product browsing |
-   | `product_detail.png` | Product detail view |
-   | `cart.png` | Shopping cart |
-   | `orders.png` | Customer orders |
-   | `profile.png` | User profile |
-   | `flash_sale.png` | Flash sale badge / countdown |
-   | `reviews.png` | Ratings and reviews |
-   | `admin_home.png` | Admin product listing |
-   | `admin_add_product.png` | Add product form |
-   | `admin_edit_product.png` | Edit product form |
-   | `admin_orders.png` | Admin orders management |
-   | `admin_analytics.png` | Analytics dashboard |
-   | `admin_top_artworks.png` | Top artworks chart |
-
-3. **Commit and push** the screenshots folder:
-   ```bash
-   git add screenshots/
-   git commit -m "Add app screenshots"
-   git push
-   ```
-
-> **Tip:** Use Android Studio's emulator to take screenshots with `Ctrl+S` (Windows) or the camera icon in the emulator toolbar. Resize them to around **360×800px** for a clean README display.
-
----
-
 ## Developer
 
 **Ramisa** — COS30017 Software Development for Mobile Devices
