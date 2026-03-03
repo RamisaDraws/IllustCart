@@ -4,9 +4,7 @@
 
 ---
 
-## 📱 Screenshots
-
-> Place your screenshots in the `screenshots/` folder at the root of your repository (see [Adding Screenshots](#-adding-screenshots) below).
+## Screenshots
 
 ### Customer Side
 
@@ -14,9 +12,9 @@
 |:-:|:-:|:-:|
 | ![Cover](screenshots/cover.png) | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) |
 
-| Product Detail | Cart | Orders |
-|:-:|:-:|:-:|
-| ![Product Detail](screenshots/product_detail.png) | ![Cart](screenshots/cart.png) | ![Orders](screenshots/orders.png) |
+| Product Detail | Cart |                   Orders                    |
+|:-:|:-:|:-------------------------------------------:|
+| ![Product Detail](screenshots/product_detail.png) | ![Cart](screenshots/cart.png) | ![Orders](screenshots/delivered_orders.png) |
 
 | Profile | Flash Sale | Ratings & Reviews |
 |:-:|:-:|:-:|
