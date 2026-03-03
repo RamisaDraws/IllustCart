@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="colorAccent">#FB8C00</color>
+    <color name="flash_sale_red">#FF5722</color>
+    <color name="sold_out_red">#F44336</color>
+    <color name="prints_available_green">#4CAF50</color>
+    <color name="original_price_gray">#999999</color>
+</resources>
